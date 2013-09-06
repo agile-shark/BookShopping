@@ -1,0 +1,55 @@
+﻿#bigDiv
+{
+    width:200px;
+    height :403px;
+    background-color :#ffffff ;
+    border :1px solid #d5e2eb;
+    }
+.Div1
+{
+    width:160px;
+    height :364px;
+    margin-left:25px;
+    margin-top :6px ;
+    /*border:1px solid red;*/
+ }
+ /*底部*/
+ #footer
+ {
+      width:200px;
+      height:33px;
+ }
+ #footer img
+{
+     margin-left:103px;
+     margin-top:4px;
+     border :0px;
+}
+/*链接设置*/
+.Div1 a:link
+{
+     width:158px;
+     height :26px;
+     line-height:30px;
+     display :block ;
+     text-decoration :none;
+     color:#393939; 
+     font-size :12px;
+     background-image :url("images/321_13.jpg");
+     background-repeat: no-repeat;
+     background-position: right center;
+     border-bottom :1px dashed #c1bcbc; 
+     /*border:1px solid blue; */
+    }
+.Div1 a:visited
+{
+     color:#404040;
+     font-weight :bold ; 
+     background-image :url("images/321_03.jpg");
+    }
+.Div1 img
+{
+    border:0px;
+    width:16px;
+    height :14px;
+}

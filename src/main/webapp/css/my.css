@@ -1,0 +1,115 @@
+@charset "utf-8";
+/* CSS Document */
+
+#content_1{
+	height:430px;
+	width:800px;
+	float:left;
+	border:10px solid #EDF8FE;
+	background-color:#fbfcfd;
+	}
+#content_2{
+	height:430px;
+	width:800px;
+	float:left;
+	margin-top:10px;
+	border:10px solid #EDF8FE;
+	background-color:#fbfcfd;
+	}
+#content_3{
+	height:430px;
+	width:800px;
+	float:left;
+	margin-top:10px;
+	border:10px solid #EDF8FE;
+	background-color:#fbfcfd;
+	}
+#content_1 .topNavigation{
+	width:800px;
+	height:37px;
+	float:left;
+	background-image:url(../images/bg3.jpg);
+}
+
+#content_2 .topNavigation{
+	width:800px;
+	height:37px;
+	float:left;
+	background-image:url(../images/bg4.jpg);
+}
+
+#content_3 .topNavigation{
+	width:800px;
+	height:37px;
+	float:left;
+	background-image:url(../images/bg2.jpg);
+}
+
+.upbookinfoConten{
+	width:750px;
+	height:183px;
+	float:left;
+
+}
+.upbookinfoConten .text{
+	width:107px;
+	height:40px;
+	float:left;
+	margin-top:20px;
+}
+.downbookinfoConten{
+	width:750px;
+	height:183px;
+	float:left;
+}
+.downbookinfoConten .text{
+	width:107px;
+	height:40px;
+	float:left;
+	margin-top:20px;
+}
+#content_1 .bookinfo{
+	width:108px;
+	height:160px;
+	float:left;
+	margin:17px;
+	margin-left:20px;
+	margin-top:15px;
+	background-repeat:no-repeat;
+	background-image:url(../images/phone1.jpg) ;
+}
+
+#content_2 .bookinfo{
+	width:108px;
+	height:160px;
+	float:left;
+	margin:17px;
+	margin-left:20px;
+	margin-top:15px;
+	background-repeat:no-repeat;
+	background-image:url(../images/phone2.jpg) ;
+}
+
+#content_3 .bookinfo{
+	width:108px;
+	height:160px;
+	float:left;
+	margin:17px;
+	margin-left:20px;
+	margin-top:15px;
+	background-repeat:no-repeat;
+	background-image:url(../images/phone3.jpg) ;
+}
+
+.bookimage{
+	width:68px;
+	height:84px;
+	float:left;
+	margin-top:16px;
+	margin-left:22px;
+}
+
+.more{
+	float:left;
+	margin-top:10px;
+	margin-left:700px;}

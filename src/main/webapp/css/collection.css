@@ -1,0 +1,63 @@
+﻿#bigDiv
+{
+    width:750px;
+    height :452px;
+    background-color :#ffffff ;
+    border :1px solid #d5e2eb;
+    }
+.Div1
+{ 
+    width:724px;
+    height :25px;
+    background-color :#edf7ff;
+    margin-left :12px;
+    margin-top :8px;
+    }
+.Div1 span
+{
+    font-size :14px;
+    color :#4490e4;
+    line-height :25px;
+    margin-left :24px;
+    
+    }
+#Div2
+{
+    width :724px;
+    height:25px;
+    margin-left :12px;
+    margin-top :9px;
+    font-size :12px;
+    color :#484848;
+    }
+#Div3
+{ 
+    width:724px;
+    height :20px;
+    margin-left :12px;
+    margin-top :8px; 
+    }
+#Div3 span
+{
+    font-size :12px;
+    color :#19609e;
+    line-height :20px;
+    margin-left :620px;
+    }
+#Div4
+{
+    width:724px;
+    height:292px;
+    margin-left :12px;
+    margin-top :8px; 
+    font-size :12px;
+    color :#313131;
+}
+
+.a link{
+	color: #006BD0;	
+}
+
+.a hover{
+	color: #006BD0;	
+}

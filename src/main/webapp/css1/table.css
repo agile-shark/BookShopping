@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+/* manage_table */
+#manage .content table{ clear:left;width:800px; margin-left:23px;border: 1px solid #0033FF;}
+#manage .content table th{ height:28px; border: 1px solid #00CCCC; line-height:28px; background:#2390d4;}
+#manage .content table td{ height:24px;border: 1px solid #00CCCC; line-height:24px; text-align:center;}
+#manage .content table .btn{ background:url(../img/btn/btn1.gif) center top no-repeat; margin:3px 5px 0 8px; color:#FFF; width:62px;}
+#nright td{ padding-top:5px;}
+#nright td a{ color: #003399;}
+#nright td a:hover{ background:#ddd;}
+#contento table{ width:725px;}
+#contento table td{ margin:10px 10px 7px 15px;}
+#contento table th{ margin:10px 0 10px 10px; font-size:18px;}
+#contento table p{ margin:10px 10px 10px 10px; line-height:24px;}
+#pright .center2 #pacright #activity table {margin:10px 0;width:690px;}
+#pright .center2 #pacright #activity table tr{padding:10px 0 }	
+#pright table{ width:655px; margin:10px 0 0 10px; background-color:#e8f5fd; border:5px solid #e8f5fd;}
+#pright table td{ padding:4px 4px 4px 4px;border:1px solid #dce5ec; text-align:center; background-color:#fff; line-height:24px;}
+#pright table td a,a:hover{ text-decoration:underline; font-size:13px;}
+#pright table th{ font-size:12px;background-color:#ededed;padding:5px 0 5px 0px; }
+#pright table th a{ color:#6c66bc;}

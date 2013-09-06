@@ -1,0 +1,43 @@
+@charset "utf-8";
+
+/* hidden */
+.hidden{ visibility:hidden; position:absolute; width:0; height:0; margin:0; padding:0; background:none; font-size:0; line-height:0;  }
+.onshow{ display:block !important;}
+
+/* clear */
+.clear{ clear:both; height:0; font-size:0; line-height:0;}
+
+/* background */
+.bg_none{ background:none !important;}
+
+/* boeder */
+.border_no{ border:none!important;}
+/* login */
+.content_login{ padding:30px 0 0 294px; width:380px;}
+.content_login h2{ float:left; margin:0 25px 31px 0;}
+.content_login h2 a{ background:#FFF;}
+.content_login p{ float:left;margin:46px 60px 31px 0; border:none;}
+.content_login .text{ float:left;width:346px; margin-bottom:12px;}
+.content_login .red{ float:left;color:#FF0000; margin:3px 10px 0 10px;}
+.content_login .teat_name{ float:left;height:22px; width:81px; font-size:16px;}
+.content_login .text_text{ float:left; width:198px; height:20px; border:#CCC 1px solid;}
+.content_login .yz{ margin:10px 0 13px 75px;}
+.content_login .enter{ margin:24px 0 0 90px; padding-bottom:53px;width:118px; height:28px; background:url(../img/btn/btn2.gif) left top no-repeat; font-size:18px; color:#000;}
+/* manage */
+#top{ width:849px; height:132px; margin:0 auto; background:url(../img/background/bar5.gif) top left repeat-x;}
+#top h1{ float:left; padding:0px 32px 0 61px; height:71px;}
+#top p{ float:left; padding:34px 186px 0 0; height:52px;}
+#top .line{padding:4px 0 55px 0; height:20px;}
+#top ul{ }
+#top ul li{ float:left; margin-right:10px;}
+#top ul li a{ color:#FFF;}
+#top #snav{ margin:16px 0 7px 55px; height:26px;}
+#top #snav ul{}
+#top #snav ul li{ float:left;  padding-right:10px;}
+#top #snav ul li a{ color:#fff; font-size:18px; font-family:"黑体";}
+#top #snav ul li a:hover{ color:#000;}
+#top #snav ul li ul{}
+#top #snav ul li ul li{ margin:2px 10px 0 12px; background:none;}
+#top #snav ul li ul li a{ font-size:12px;}
+#top #snav ul li ul li a:hover{font-size:12px;}
+

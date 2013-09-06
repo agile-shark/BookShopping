@@ -1,0 +1,21 @@
+.sub{
+	background-image:url(../img/bnt_log.gif);
+	border:none;
+	width:52px;
+	height:21px;
+}
+
+.zhuce{
+	font-size:small;
+	background-color:#cccccc;
+}
+
+.bar{
+	background-image:url(../img/bar.png);
+}
+
+.table_2{
+	border-color:#cccccc;
+	border-width:10px;
+	border-style:dotted;
+}

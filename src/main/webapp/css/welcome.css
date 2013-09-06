@@ -1,0 +1,72 @@
+﻿#bigDiv
+{
+    width:750px;
+    height :315px;
+    background-color :#ffffff;
+    border :1px solid #d5e3ee;
+}
+#welDiv
+{
+    height :29px;
+}
+#fontDiv
+{
+    margin-left :12px;
+    margin-top :15px;
+}
+#fontStyle
+{
+    font-size :14px;
+    color:#363636;
+}
+#fontStyle span
+{
+     color:#ff5771;
+}
+ /*上一次登录时间*/
+.preTime
+{
+    height :20px;
+    line-height:20px;
+    margin-left :12px;
+    margin-top :5px;
+    font-size :12px;
+}
+ /* 用户中心公告 */
+#user
+{ 
+     width :720px;
+     height :41px;
+     margin-left :12px;
+     margin-top :8px;
+     font-size :12px;
+     border :1px solid #897069;
+     background-color :#e4d3cc; 
+}  
+#user img
+{
+     margin-left :20px;
+     margin-top :13px;
+     margin-right :6px;
+}   
+.left
+{
+     width :373px;
+     height :109px;
+     float:left;
+}
+.leftbg
+{
+    width:351px;
+    height :26px;
+    line-height:26px;/*设置行高*/
+    background-color :#edf7ff;
+    margin-left :11px;
+}
+.leftbg span
+{
+    font-size :14px;
+    color :#6da0cf;
+    padding-left :25px;
+    padding-top :10px
+}

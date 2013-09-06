@@ -1,0 +1,127 @@
+#content
+{ 
+    width :200px;
+    height:1220px;
+    background-color : White;
+}
+/*第一个框*/
+#divTab1
+{
+   width:199px;
+   height:108px;
+   background-color :White; 
+   border :1px solid #c5e4ff;
+}
+.topbg1
+{
+    width :200px;
+    height :32px;
+ }
+ .contentDiv
+ {
+     width :195px;
+     height :44px;
+     line-height: 20px;
+     padding-left:5px;
+	 padding-top:10px;
+ }
+ #special_span
+ {
+     font-size :12px;
+     color :#404040;
+ }
+ /*第二个框（购物车）*/
+ #divTab2
+{
+   width:200px;
+   height:80px;
+   line-height: 20px;
+   padding-top:30px;
+   margin-top:10px;
+   font-size :12px;
+   border:1px solid #c5e4ff;
+} 
+ .divTab2 a:link
+ {
+     color :black;
+     text-decoration:none;
+ }
+ .divTab2 a:hover
+  {
+      text-decoration:underline;
+  }
+ /*第三个框（购物车）*/
+ #divTab3
+ {
+     width:199px;
+     height :390px;
+     background-color :White; 
+     margin-top:10px;
+     border  :1px solid #c5e4ff;
+     
+ }
+ .topDiv
+ {
+     width:200px;
+     height:34px;
+     border-bottom:1px dotted #d2d2d2;/*虚线*/
+ }
+ .topDiv img
+ {
+     margin-left :10px;
+     margin-top:16px;
+ }
+ .topDiv span
+ {
+     margin-left :18px;
+     margin-top:16px;
+     font-size: 12px;
+ }
+ .topDiv a
+ { 
+     text-decoration:none;/*无下划线的链接设置*/
+     color :#3f3f3f;
+ }
+ #divTab3 ul
+ {
+      height:80px;
+      list-style-type :none;
+      margin-left :1px;
+      margin-top :0px;
+      margin-bottom :10px;
+ }
+ #divTab3 ul li
+{ 
+	margin-top :4px;
+}
+#divTab3 ul a:link /*链接样式设置*/
+{
+  font-size:12px;
+  text-decoration:none;
+  color :#3f3f3f;
+}
+ #divTab3 ul a:hover
+ {
+    color :#ebb218; 
+ }
+ /*第五个框（订单查询）*/ 
+ .txtContent
+ {
+     height :33px;
+     }
+ .txtStyle
+ {
+    width :151px;
+    height :20px; 
+	margin-left :11px;
+	margin-top :8px;
+	background-position: 8px 11px;
+	border: thin solid #b3b3b3;
+ }
+ .btn
+ {   
+     width:139px;
+     height :21px;
+     margin-left :11px;
+	 margin-top :8px; 
+ }

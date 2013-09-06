@@ -1,0 +1,12 @@
+  .pg{background-color:#F1F8FE}
+  .AreaR{width:750px; float:left;}
+  .box{background:#f1f1f1; padding-bottom:2px; overflow:hidden;}
+  .box_1{border:1px solid #c5e4ff; background-color:#fff;}
+
+  .boxCenterList{padding:8px;}
+  .inputBg{border:1px solid #b3b3b3; background:url(images/inputbg.gif) repeat-x left top; height:18px;color:#a5a5a5}
+  .bnt_blue_1{
+  background:url(images/bg.png) no-repeat 0px -663px; width:77px; height:21px;
+  text-align:center; line-height:21px; color:#fff; border:none; cursor:pointer;
+  }
+  .bd{border-color:#C5E5FE}

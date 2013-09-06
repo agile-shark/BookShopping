@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<proxool-config>
+   <proxool>
+      <alias>shxt</alias>
+      <driver-url>jdbc:oracle:thin:@127.0.0.1:1521:orcl</driver-url>
+      <driver-class>oracle.jdbc.driver.OracleDriver</driver-class>
+      <driver-properties>
+      <property name="user" value="liang"/>
+      <property name="password" value="liang"/>
+      </driver-properties>
+      <house-keeping-sleep-time>60000</house-keeping-sleep-time>
+      <maximum-connection-count>10</maximum-connection-count>　
+      <minimum-connection-count>1</minimum-connection-count>
+      <prototype-count>1</prototype-count>
+      <maximum-new-connections>1</maximum-new-connections>
+      <simultaneous-build-throttle>1</simultaneous-build-throttle>
+      <statistics>30s,10m,1d</statistics>
+      <statistics-log-level>INFO</statistics-log-level>
+   </proxool>
+</proxool-config>
