@@ -24,12 +24,12 @@ public class DBHelper {
 	
 
 	/**
-	 * ½øÐÐÁ¬½Óº¯Êý
-	 * @return£º·µ»ØÁ¬½Ó
+	 * ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Óºï¿½ï¿½ï¿½
+	 * @returnï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 	 */
 	public Connection getConnection() {
 		try {
-			return DriverManager.getConnection(url,"liang","liang");
+			return DriverManager.getConnection(url,"yang","yang");
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
